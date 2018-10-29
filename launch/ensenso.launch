@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <launch>
 
-  <arg name="serial" default="0" />
-  <arg name="mono_serial" default="4103380800" />
+  <arg name="serial" default="160875" />
+  <arg name="mono_serial" default="4103137455" />
 
 <!--   
   <arg name="serial" default="171312" />
